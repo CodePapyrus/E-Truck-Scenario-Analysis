@@ -469,3 +469,4 @@ carbon_damage_num[1,13] <- Z2_EP
 write.csv(carbon_damage_num,file = "C:/Users/Administrator/Desktop/test_data/data_for_figure6/1/yangpu_1.csv", row.names = TRUE)
 
 
+
