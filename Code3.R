@@ -1,4 +1,4 @@
-transportation_info <- read.csv("data_for_analysis.csv", header = TRUE)
+transportation_info <- read.csv("result_for_analysis.csv", header = TRUE)
 
 fuel_efficiency <- 2.7251 # fuel efficiency coefficient
 fuel_cost <- 0.07 # truck fuel consumption
@@ -381,3 +381,4 @@ carbon_damage_num[1,13] <- Z2_EP
 
 write.csv(carbon_damage_num, file = "final_result.csv", row.names = TRUE)
 ```
+
