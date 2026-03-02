@@ -52,3 +52,4 @@ c <- barplot(draw_data,xlab="TC (yuan)",ylab = "12 (t)",col=colors,horiz = TRUE,
 
 
 
+
